@@ -11,3 +11,4 @@ recommonmark
 sphinx
 sphinx-rtd-theme
 torchvision
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
